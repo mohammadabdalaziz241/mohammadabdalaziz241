@@ -4,7 +4,7 @@
 
 I build models that are accurate, efficient and shippable: self-supervised and compressed models for industrial sensing, LLM and NLP fine-tuning, and deployed inference services with tests, CI/CD and monitoring.
 
-🌍 Turkish citizen · Arabic (native), English (fluent) · **Open to ML engineering roles in Turkey, Qatar, the UAE and Saudi Arabia**
+🌍 Turkish citizen · Arabic (native), English (fluent) ·
 
 ---
 
