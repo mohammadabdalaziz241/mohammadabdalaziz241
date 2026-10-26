@@ -4,7 +4,7 @@
 
 I build models that are accurate, efficient and shippable: real-time computer vision deployed with C++ and TensorRT, self-supervised and compressed models for industrial sensing, LLM and NLP fine-tuning, and inference services with tests, CI/CD and monitoring.
 
-🌍 Turkish citizen · Arabic (native), English (fluent)
+🗣️ Arabic (native) · English (fluent)
 
 ---
 
